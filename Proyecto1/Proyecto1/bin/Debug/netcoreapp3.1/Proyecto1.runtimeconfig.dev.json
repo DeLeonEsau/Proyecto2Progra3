@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\deleo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\deleo\\.nuget\\packages"
+    ]
+  }
+}
